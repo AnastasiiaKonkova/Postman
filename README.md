@@ -1,3 +1,3 @@
 ## Шпаргалки: [ссылка тут](https://telegra.ph/SHpargalka-po-Postman-09-01-2) 
 ## Неплохие видео на ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white): [ссылка тут](https://www.youtube.com/watch?v=zfrQtU8eCEo) 
-## Мои работы:  [1](https://www.postman.com/anastasiiaktr/workspace/anastasiia/collection/27285332-31a5ff71-5941-4916-893d-2a6a9721795f?action=share&creator=27285332), [2](https://www.postman.com/anastasiiaktr/workspace/anastasiia/collection/27285332-188d9689-7730-4529-ba31-7777c190c547?action=share&creator=27285332), [3](https://www.postman.com/anastasiiaktr/workspace/anastasiia/collection/27285332-48d499fc-fe87-484a-ab3a-8d8d787b23ee?action=share&creator=27285332).
+## Мои работы:  [коллекции](https://www.postman.com/anastasiiaktr/workspace/anastasiia/collection/27285332-31a5ff71-5941-4916-893d-2a6a9721795f?action=share&creator=27285332)
